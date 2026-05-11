@@ -10,7 +10,7 @@ import re
 st.set_page_config(page_title="Project Master-Key v4.4", layout="wide")
 
 # 🔐 [보안] 비밀번호 설정 (사모님 공유용)
-PASSWORD = "1234"
+PASSWORD = "0116"
 
 def check_password():
     if "password_correct" not in st.session_state:
