@@ -10,7 +10,7 @@ import re
 st.set_page_config(page_title="Project Master-Key v4.6", layout="wide")
 
 # 🔐 [보안] 사모님 공유용 비밀번호 (기본값: 1234)
-PASSWORD = "1234"
+PASSWORD = "0116"
 
 def check_password():
     """비밀번호 인증: 사모님께서 로그인 없이 편리하게 접속하시도록 설계"""
